@@ -46,7 +46,6 @@ O NCM 3003.10.12, por exemplo, deve ser entendido da seguinte forma:
                         ou estreptomicinas ou seus derivados;
     Item 3003.10.1: Que contenham penicilinas ou seus derivados, com estrutura do ácido penicilânico;
     Subitem 3003.10.12: Amoxicilina ou seus sais.
-
 ```
 
 
