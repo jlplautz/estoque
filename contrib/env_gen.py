@@ -1,7 +1,7 @@
 DEBUG=False
 SECRET_KEY=defina sua chave secreta
 ALLOWED_HOSTS=localhost, 127.0.0.1
-DATABASE_URL=postgres://postgres:postgres@localhost/stockdb
+DATABASE_URL=postgres://postgres:postgres@localhost/stock_db
 #DEFAULT_FROM_EMAIL=
 #EMAIL_BACKEND=django.core.mail.backends.smtp.EmailBackend
 #EMAIL_HOST=
