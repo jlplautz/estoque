@@ -48,7 +48,6 @@ O NCM 3003.10.12, por exemplo, deve ser entendido da seguinte forma:
     Subitem 3003.10.12: Amoxicilina ou seus sais.
 ```
 
-
 ## Links
 
 [python-decouple](https://github.com/henriquebastos/python-decouple)
