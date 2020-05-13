@@ -46,6 +46,7 @@ INSTALLED_APPS = [
     'django_extensions',
     'widget_tweaks',
     'bootstrapform',
+    'collectfast',
     # Minhas apps
     'projeto.core',
     'projeto.produto',
@@ -100,6 +101,8 @@ parse_database = partial(dj_database_url.parse, conn_max_age=600)
 DATABASES = {
     'default': config('DATABASE_URL', default=default_db_url, cast=parse_database)
 }
+
+COLLECTFAST_ENABLED = True
 
 # Password validation
 # https://docs.djangoproject.com/en/2.2/ref/settings/#auth-password-validators

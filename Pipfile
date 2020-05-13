@@ -20,6 +20,7 @@ Django = "==3.0.6"
 gunicorn = "*"
 psycopg2-binary = "*"
 dj-database-url = "*"
+collectfast = "*"
 
 [requires]
 python_version = "3.8"
